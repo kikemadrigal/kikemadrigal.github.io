@@ -1,5 +1,5 @@
 
-# github pages
+# Github pages
 
 https://kikemadrigal.github.io/?disk=capkirk.dsk
 
